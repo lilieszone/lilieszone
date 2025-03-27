@@ -69,8 +69,8 @@ Want to stay updated or ask more questions? Follow me on my social media platfor
 |----------------|----------------------------------------|
 | **Facebook**   | [Facebook](https://www.facebook.com/jiresse.david)              |
 | **Twitter**    | [Twitter](https://x.com/keli_booster)               |
-| **LinkedIn**   | [LinkedIn Placeholder](https://www.linkedin.com/in/kelibst/)              |
-| **YouTube**    | [YouTube Placeholder](https://www.youtube.com/@liliestechzone7672)               |
+| **LinkedIn**   | [LinkedIn ](https://www.linkedin.com/in/kelibst/)              |
+| **YouTube**    | [YouTube ](https://www.youtube.com/@liliestechzone7672)               |
 
 *(Replace `(#)` with your actual profile links.)*
 
